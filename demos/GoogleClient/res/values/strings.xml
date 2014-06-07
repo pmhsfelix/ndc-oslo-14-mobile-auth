@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- TODO: define the server-side client ID. See readme.md for details -->
+    <string name="server_side_client_id"></string>
+    
+    <string name="app_name">Using Google</string>
+    <string name="action_settings">Settings</string>    
+    <string name="login_btn_text">Login with Google</string>
+    <string name="id_token_btn_text">Get ID Token for server</string>
+    <string name="code_btn_text">Get code for server</string>
+    
+
+</resources>
