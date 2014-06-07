@@ -3,6 +3,8 @@
 Demos for the NDC Oslo 2014 session on mobile authentication and authorization.
 See the [video](http://vimeo.com/97349269) and the [slides](https://speakerdeck.com/pmhsfelix/single-sign-on-for-mobile-native-applications) for more information.
 
+Edit the `project.properties` with the correct location for the Android Library.
+
 # Web View Client #
 
 This demo shows how to use the `WebView` class to perform a OAuth 2.0 code flow on an Android device.
